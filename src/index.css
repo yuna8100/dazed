@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --color-acid-green: #01FF23;
+  --color-editorial-gray: #808080;
+  --color-surface-dark: #131313;
+  --font-bodoni: "Bodoni Moda", "Nanum Myeongjo", serif;
+  --font-hanken: "Hanken Grotesk", "Noto Sans KR", sans-serif;
+  --font-mono: "Space Mono", monospace;
+}
+
+@layer utilities {
+  .font-bodoni {
+    font-family: var(--font-bodoni);
+  }
+  .font-hanken {
+    font-family: var(--font-hanken);
+  }
+  .font-space-mono {
+    font-family: var(--font-mono);
+  }
+}
+
+/* Hide scrollbars but keep functionality */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+

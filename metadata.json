@@ -1,0 +1,6 @@
+{
+  "name": "Dazed Korea",
+  "description": "An avant-garde editorial web application replicating the iconic Dazed Korea magazine visual identity with modern responsive layouts and beautiful editorial typography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
