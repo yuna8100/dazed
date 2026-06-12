@@ -22,7 +22,7 @@ export const INITIAL_ARTICLES: Article[] = [
     category: 'FASHION',
     title: '어떻게 잊겠어. 랄프 로렌 컬렉션을 입은 크리스탈과 함께한 제주',
     credit: '그대와 함께',
-    imageUrl: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCBEaNOk-d-ZbzPXQ9UFJwT3imCbwUfTCy6nyj62our6cGPbWrLsDB45Ba7cCOx8XmDyHAfhdjUxDWDAtsrSQQ6erzS711uW4mRC2IfRFcwrrrsGdUhEobytUdq7PDzHbTXkFp0cG9zEuW-Ew9jtyHU5VFSiGsE7SNZWi-2HPiq4AieaQug4zbt8goee4yEUI_xxoq3-Ra9si7l-Yg0rMyYgyA2o_sHh-qH7QSApKtjQR2FMkgt3K39i4uJ5xppCvGI8CwbK4qWXaOLwg',
+    imageUrl: '/image/photo_3.png'
     author: 'Fashion Editor Kim',
     date: '2026.06.10',
     content: `푸른 제주의 바람과 파도가 넘실거리는 해변 위에 선 크리스탈.
