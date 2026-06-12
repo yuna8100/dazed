@@ -7,7 +7,7 @@ export const INITIAL_ARTICLES: Article[] = [
     title: '<데이즈드> 6월호 커버',
     englishTitle: 'JENNIE ꩜ JENNIE',
     subtitle: 'The Cover for JUNE 2026 issue of DAZED KOREA',
-    imageUrl: '/image/photo_2.png'
+    imageUrl: '/image/photo_2.png',
     author: 'Editorial Team',
     date: '2026.06.11',
     featured: true,
@@ -22,7 +22,7 @@ export const INITIAL_ARTICLES: Article[] = [
     category: 'FASHION',
     title: '어떻게 잊겠어. 랄프 로렌 컬렉션을 입은 크리스탈과 함께한 제주',
     credit: '그대와 함께',
-    imageUrl: '/image/photo_3.png'
+    imageUrl: '/image/photo_3.png',
     author: 'Fashion Editor Kim',
     date: '2026.06.10',
     content: `푸른 제주의 바람과 파도가 넘실거리는 해변 위에 선 크리스탈.
@@ -39,7 +39,7 @@ export const INITIAL_ARTICLES: Article[] = [
     category: 'FASHION',
     title: 'Alone, Not Lonely',
     subtitle: '낯선 도시, 혼자여도 흔들림 없이 홀로 빛나는 정연.',
-    imageUrl: '/public/image/photo_2.png',
+    imageUrl: '/image/photo_2.png',
     author: 'Creative Director Lee',
     date: '2026.06.09',
     content: `낯설고 고요한 도시 속에서 홀로 서 있는 정연의 담담한 카리스마.
